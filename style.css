@@ -1,0 +1,14 @@
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('texture.jpg');
+  background-size: cover;
+}
+
+#text {
+  font-size: 48px;
+  color: white;
+  opacity: 0;
+}
